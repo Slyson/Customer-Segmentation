@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-This project focuses on customer segmentation using various clustering and classification algorithms. The goal is to analyze customer data and categorize them into different segments based on their attributes.
+This project focuses on customer segmentation using various clustering and classification algorithms. The aim is to analyse customer data and categorise them into different segments based on their attributes.
 
 ## Dependencies
 
@@ -11,11 +11,11 @@ This project focuses on customer segmentation using various clustering and class
 
 ## Dataset
 
-The project utilizes the "customer-segmentation" dataset, which is loaded from the 'Train.csv' file. The dataset contains information about customers, including their gender, marital status, age, education, work experience, and segmentation category.
+The project utilises the "customer-segmentation" dataset from <a href="https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation">Kaggle</a>, which is loaded from the 'Train.csv' file. The dataset contains information about customers, including their gender, marital status, age, education, work experience, and segmentation category.
 
 ## Exploratory Data Analysis
 
-- Gender Distribution: Visualizes the distribution of customers based on gender.
+- Gender Distribution: Visualises the distribution of customers based on gender.
 - Customers that ever married: Shows the distribution of customers based on their marital status.
 - Age Distribution: Presents the distribution of customer ages.
 - Graduated Customers: Displays the distribution of customers based on their education status.
@@ -35,10 +35,10 @@ The project utilizes the "customer-segmentation" dataset, which is loaded from t
 ## Classification Algorithms
 
 - Random Forest Classifier: Trains a Random Forest Classifier with 70 estimators and a maximum depth of 4 on the preprocessed data. Evaluates the classification performance using classification report and adjusted Rand index.
-- K-Nearest Neighbors Classifier: Trains a K-Nearest Neighbors Classifier with 4 neighbors on the preprocessed data. Evaluates the classification performance using classification report.
+- K-Nearest Neighbours Classifier: Trains a K-Nearest Neighbours Classifier with 4 neighbours on the preprocessed data. Evaluates the classification performance using classification report.
 - Gaussian Naive Bayes Classifier: Trains a Gaussian Naive Bayes Classifier on the preprocessed data. Evaluates the classification performance using classification report.
 - Decision Tree Classifier: Trains a Decision Tree Classifier with a maximum depth of 4 and maximum leaf nodes of 10 on the preprocessed data. Evaluates the classification performance using classification report.
-- MLP Classifier: Performs hyperparameter tuning using GridSearchCV on an MLP Classifier with adaptive learning rate and different hidden layer sizes and regularization parameters. Evaluates the classification performance using classification report.
+- MLP Classifier: Performs hyperparameter tuning using GridSearchCV on an MLP Classifier with adaptive learning rate and different hidden layer sizes and regularisation parameters. Evaluates the classification performance using classification report.
 
 Note: The project splits the data into training and test sets using train_test_split, and the evaluation metrics are reported on the test set.
 
@@ -48,7 +48,14 @@ Feel free to explore the project code and results to gain insights into customer
 
 To run the project, make sure you have the required dependencies installed. You can execute the code in a Python environment, such as Jupyter Notebook or any Python IDE.
 
-## License
+```python
+# Run the code cells in sequential order
+```
+
+## Licence
 
 This project is licensed under the [MIT License](LICENSE).
----
+
+## Contact
+
+For any questions or enquiries, please contact [Slyson](mailto:slysonlegodi@gmail.com).
