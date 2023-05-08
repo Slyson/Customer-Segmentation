@@ -51,11 +51,4 @@ To run the project, make sure you have the required dependencies installed. You 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact [@slyson](mailto:yourname@example.com).
-
 ---
-
-Please note that this is a generic README template, and you should customize it based on your specific project details and requirements.
