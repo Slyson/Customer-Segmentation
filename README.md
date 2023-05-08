@@ -52,9 +52,9 @@ To run the project, make sure you have the required dependencies installed. You 
 pip install scikit-learn numpy pandas matplotlib
 ```
 
-## Licence
+## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/).
 
 ## Contact
 
