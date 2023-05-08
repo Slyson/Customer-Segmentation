@@ -49,7 +49,7 @@ Feel free to explore the project code and results to gain insights into customer
 To run the project, make sure you have the required dependencies installed. You can execute the code in a Python environment, such as Jupyter Notebook or any Python IDE.
 
 ```python
-# Run the code cells in sequential order
+# pip install scikit-learn numpy pandas matplotlib
 ```
 
 ## Licence
